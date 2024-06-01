@@ -45,11 +45,12 @@ h2 {
     color: rgb(177, 181, 181);
     margin-top: -100px;
     margin-left: 140px;
+    text-decoration-line: underline;
 }
 
 h3 {
     font-size: 20px;
     color: rgb(177, 181, 181);
-    text-decoration: underline;
+    
 
 }
