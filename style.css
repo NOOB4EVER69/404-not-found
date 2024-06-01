@@ -1,0 +1,54 @@
+body {
+
+    font-family: 'Children';
+    -webkit-user-select: none;
+
+    user-select: none;
+    background-color: rgb(25, 25, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Children;
+    src: url('./Children.ttf');
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+
+
+}
+
+h1 {
+    font-size: 110px;
+    color: rgb(247, 247, 247);
+    margin-top: -130px;
+    margin-left: -600px;
+}
+
+p {
+    font-size: 40px;
+    color: rgb(177, 181, 181);
+    margin-top: -50px;
+    margin-left: -500px;
+}
+
+
+
+h2 {
+    font-size: 40px;
+    color: rgb(177, 181, 181);
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(177, 181, 181);
+
+}
